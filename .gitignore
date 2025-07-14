@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode and system files
+.vscode/
+.DS_Store
+
+# Virtual environment
+venv/
+.env/
+
+# Data folders (optional, if you don’t want to track)
+data/chroma_db/
+data/raw_docs/
+
+# Streamlit cache
+.streamlit/
